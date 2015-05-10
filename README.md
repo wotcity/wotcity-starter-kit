@@ -10,14 +10,22 @@ Help makers making Internet of Personal Things.
 
 ## Install
 
-1. [Download CSK](https://github.com/wotcity/dotcity-starter-kit/releases).
+1. [Download CSK](https://github.com/wotcity/dotcity-starter-kit/releases) and uncompress the package.
 2. Run `$ cd dotcity-starter-kit` to change the directory.
 3. Run `$ npm install --global gulp` to install Gulp.
-4. Run `$ npm install` to install the dependencies if you don't already have them.
-5. Run `$ bower install` to install the dependencies if your don't already have them.
-6. Run `$ gulp build` to build the application scripts.
-7. Open `index.html` with your faroviate browser. The web app page is empty now.
-8. Append the device name in the URL as an frontend routing parameter. For example `index.html#5547870f4dd3e08d63000007`
+4. Run `$ npm install --global bower` to install Bower.
+5. Run `$ npm install` to install the dependencies if you don't already have them.
+6. Run `$ bower install` to install the dependencies if your don't already have them.
+7. Run `$ gulp build` to build the application scripts.
+8. Open `index.html` with your faroviate browser. The web app page is empty now.
+9. Append the device name in the URL as an frontend routing parameter. For example `index.html#5547870f4dd3e08d63000007`
+
+### Prerequisites
+
+1. [Node.js](https://nodejs.org). Note: Node should be with a version above 0.10.x.
+2. [Gulp](http://gulpjs.com). Note: Run `$ npm install --global gulp` to install the latest version.
+3. [Bower](http://bower.io). Note: Run `$ npm install --global bower` to install the latest versin.
+4. Note: `git` command line interface is needed for Bower.
 
 ### Getting the device name
 
@@ -27,11 +35,6 @@ Help makers making Internet of Personal Things.
 4. Click *Device Manager* at the left side menu.
 5. Click *Launch New Device* button to create a new device instance.
 6. Copy your device name at *Device Name (Physical Object)* column.
-
-### Prerequisites
-
-1. [Node.js](https://nodejs.org). Note: Node should be with a version above 0.10.x.
-2. [Gulp](http://gulpjs.com). Note: Run `$ npm install --global gulp` to install the latest version.
 
 ## Discussion
 
