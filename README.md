@@ -55,8 +55,6 @@ Bugs are reported via [https://github.com/wotcity/dotcity-starter-kit](https://g
 
 .CITY Starter Kit project uses JSHint to validate code styles. The JSHint options are stored in the `.jshintrc` file. Run `$ gulp jshint` to detect errors.
 
-## Authors
+## License
 
-Authors ordered by first contribution.
-
-- Jollen `<jollen@jollen.org>`
+Apache License
