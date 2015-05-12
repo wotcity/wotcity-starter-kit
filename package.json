@@ -1,7 +1,7 @@
 {
   "name": "dotcity-starter-kit",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.2",
+  "preview": ["images/preview.png"],
   "dependencies": {
     "async": "~0.2.9",
     "automationjs": "^0.1.3",
