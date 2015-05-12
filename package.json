@@ -1,7 +1,8 @@
 {
   "name": "dotcity-starter-kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "preview": ["images/preview.png"],
+  "description": "Help makers making Internet of Personal Things.",
   "dependencies": {
     "async": "~0.2.9",
     "automationjs": "^0.1.3",
