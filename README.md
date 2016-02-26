@@ -1,4 +1,4 @@
-# .CITY Starter Kit
+# WoT.City Starter Kit
 
 Help makers making Internet of Personal Things.
 
@@ -10,8 +10,8 @@ Help makers making Internet of Personal Things.
 
 ## Install
 
-1. [Download CSK](https://github.com/wotcity/dotcity-starter-kit/releases) and uncompress the package.
-2. Run `$ cd dotcity-starter-kit` to change the directory.
+1. [Download CSK](https://github.com/wotcity/wotcity-starter-kit/releases) and uncompress the package.
+2. Run `$ cd wotcity-starter-kit` to change the directory.
 3. Run `$ npm install --global gulp` to install Gulp.
 4. Run `$ npm install --global bower` to install Bower.
 5. Run `$ npm install` to install the dependencies if you don't already have them.
@@ -38,22 +38,22 @@ Help makers making Internet of Personal Things.
 
 ## Discussion
 
-There are various ways to get involved with .CITY Starter Kit. We're looking for help identifying bugs, writing documentation and contributing codes.
+There are various ways to get involved with WoT.City Starter Kit. We're looking for help identifying bugs, writing documentation and contributing codes.
 
-Most of the .CITY Starter Kit developers, users and contributors are at WeChat group or IRC channel. You can find us in the [#wotcity](http://webchat.freenode.net/?channels=wotcity) IRC channel on irc.freenode.net. You can get information of how to join WeChat group at [#wotcity](http://webchat.freenode.net/?channels=wotcity).
+Most of the WoT.City Starter Kit developers, users and contributors are at WeChat group or IRC channel. You can find us in the [#wotcity](http://webchat.freenode.net/?channels=wotcity) IRC channel on irc.freenode.net. You can get information of how to join WeChat group at [#wotcity](http://webchat.freenode.net/?channels=wotcity).
 
 ## How to Report Bugs
 
-Bugs are reported via [https://github.com/wotcity/dotcity-starter-kit](https://github.com/wotcity/dotcity-starter-kit).
+Bugs are reported via [https://github.com/wotcity/wotcity-starter-kit](https://github.com/wotcity/dotcity-starter-kit).
 
 ## Core Style Guide
 
-.CITY Starter Kit project follows [jQuery's Style Guides](http://contribute.jquery.org/style-guide/) except that:
+WoT.City Starter Kit project follows [jQuery's Style Guides](http://contribute.jquery.org/style-guide/) except that:
 
-* `forin` must be used in .CITY Starter Kit project.
+* `forin` must be used in WoT.City Starter Kit project.
 * `quotmark` must be `single`. Strings must use singlequote.
 
-.CITY Starter Kit project uses JSHint to validate code styles. The JSHint options are stored in the `.jshintrc` file. Run `$ gulp jshint` to detect errors.
+WoT.City Starter Kit project uses JSHint to validate code styles. The JSHint options are stored in the `.jshintrc` file. Run `$ gulp jshint` to detect errors.
 
 ## License
 
